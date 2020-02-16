@@ -1,0 +1,87 @@
+burmese restuarants||0.00377358
+cambodian restuarants||0.00754717
+filipino restuarants||0.01132075
+bruneian restuarants||0.01509434
+indonesian restuarants||0.01886792
+laotian restuarants||0.02264151
+malaysian restuarants||0.02641509
+singaporean restuarants||0.03018868
+thai restuarants||0.03396226
+vietnamese restuarants||0.03773585
+chinese restuarants||0.08679245
+cantonese restuarants||0.09056604
+japanese restuarants||0.09433962
+korean restuarants||0.09811321
+mongolian restuarants||0.10188679
+taiwanese restuarants||0.10566038
+dim sum restuarants||0.10943396
+rice restuarants||0.11320755
+tea restuarants||0.11698113
+arabian restuarants||0.21132075
+assyrian restuarants||0.21509434
+bahraini restuarants||0.21886792
+emirati restuarants||0.22264151
+iranian restuarants||0.22641509
+iraqi restuarants||0.23018868
+kuwaiti restuarants||0.23396226
+qatari restuarants||0.23773585
+saudi arabian restuarants||0.24150943
+turkish restuarants||0.24528302
+yemeni restuarants||0.2490566
+israeli restuarants||0.25283019
+jordanian restuarants||0.25660377
+lebanese restuarants||0.26037736
+syrian restuarants||0.26415094
+armenian restuarants||0.26792453
+georgian restuarants||0.27169811
+afghan restuarants||0.32075472
+bangladeshi restuarants||0.3245283
+bhutanese restuarants||0.32830189
+indian restuarants||0.33207547
+pakistani restuarants||0.33584906
+kashmiri restuarants||0.33962264
+cafe restuarants||0.56981132
+finnish restuarants||0.57358491
+danish restuarants||0.57735849
+swedish restuarants||0.58113208
+lithuanian restuarants||0.58490566
+estonian restuarants||0.58867925
+latvian restuarants||0.59245283
+croatian restuarants||0.59622642
+bulgarian restuarants||0.6
+slovenian restuarants||0.60377358
+irish restuarants||0.60754717
+british restuarants||0.61132075
+fish and chips restuarants||0.61509434
+french restuarants||0.61886792
+bakery restuarants||0.62264151
+spanish restuarants||0.62641509
+hungarian restuarants||0.63018868
+romanian restuarants||0.63396226
+polish restuarants||0.63773585
+dutch restuarants||0.64150943
+german restuarants||0.64528302
+belgian restuarants||0.6490566
+austrian restuarants||0.65283019
+greek restuarants||0.65660377
+portugese restuarants||0.66037736
+italian restuarants||0.66415094
+costa rican restuarants||0.86037736
+cuban restuarants||0.86415094
+guatemalan restuarants||0.86792453
+haitian restuarants||0.87169811
+honduran restuarants||0.8754717
+jamaican restuarants||0.87924528
+mexican restuarants||0.88301887
+nicaraguan restuarants||0.88679245
+panamanian restuarants||0.89056604
+puerto rican restuarants||0.89433962
+trinidadian and tobagonian restuarants||0.89811321
+american restuarants||0.96981132
+hamburger restuarants||0.97358491
+fast food restuarants||0.97735849
+ice cream restuarants||0.98113208
+fried chicken restuarants||0.98490566
+steak restuarants||0.98867925
+sandwich restuarants||0.99245283
+pizza restuarants||0.99622642

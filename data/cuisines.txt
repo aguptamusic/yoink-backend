@@ -1,0 +1,87 @@
+Burmese
+Cambodian
+Filipino
+Bruneian
+Indonesian
+Laotian
+Malaysian
+Singaporean
+Thai
+Vietnamese
+Chinese
+Cantonese
+Japanese
+Korean
+Mongolian
+Taiwanese
+Dim Sum
+Rice
+Tea
+Arabian
+Assyrian
+Bahraini
+Emirati
+Iranian
+Iraqi
+Kuwaiti
+Qatari
+Saudi Arabian
+Turkish
+Yemeni
+Israeli
+Jordanian
+Lebanese
+Syrian
+Armenian
+Georgian
+Afghan
+Bangladeshi
+Bhutanese
+Indian
+Pakistani
+Kashmiri
+Cafe
+Finnish
+Danish
+Swedish
+Lithuanian
+Estonian
+Latvian
+Croatian
+Bulgarian
+Slovenian
+Irish
+British
+Fish and chips
+French
+Bakery
+Spanish
+Hungarian
+Romanian
+Polish
+Dutch
+German
+Belgian
+Austrian
+Greek
+Portugese
+Italian
+Costa Rican
+Cuban
+Guatemalan
+Haitian
+Honduran
+Jamaican
+Mexican
+Nicaraguan
+Panamanian
+Puerto Rican
+Trinidadian and Tobagonian
+American
+Hamburger
+Fast food
+Ice cream
+Fried chicken
+Steak
+Sandwich
+Pizza
